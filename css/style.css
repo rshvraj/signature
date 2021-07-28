@@ -724,7 +724,9 @@
           font-size: 1.7rem;
         }
         html{overflow-x: hidden;}
-        
+        .fprow{
+          width: 100%;
+        }
     }
 
     @media screen and ( max-width: 376px) {
